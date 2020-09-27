@@ -64,8 +64,4 @@ editor.create()
 
 - 关注作者的博客 - 《[深入理解javascript原型和闭包系列](http://www.cnblogs.com/wangfupeng1988/p/4001284.html)》《[深入理解javascript异步系列](https://github.com/wangfupeng1988/js-async-tutorial)》《[换个思路学习nodejs](https://github.com/wangfupeng1988/node-tutorial)》《[CSS知多少](http://www.cnblogs.com/wangfupeng1988/p/4325007.html)》 
 
-如果你感觉有收获，欢迎给我打赏 ———— 以激励我更多输出优质开源内容
-
-![微信打赏](https://what-is-fe.gitee.io/images/wechat-pay.jpeg)
-![支付宝打赏](https://what-is-fe.gitee.io/images/ali-pay.jpeg)
 
